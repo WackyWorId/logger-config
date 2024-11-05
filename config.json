@@ -1,0 +1,128 @@
+{
+    "biomeMap": {
+        "Glitch": { "webhook": 9, "ping": "<@&1287511408875012177>", "color": 2064972 },
+        "Jester": { "webhook": 9, "ping": "<@&1287513911532322838>", "color": 7419530 },
+        "Void Coin": { "webhook": 9, "ping": "<@&1289983654906564679>", "color": 10358961 },
+        "Null": { "webhook": 9, "ping": "Null link", "color": 4013133 },
+        "Corruption": { "webhook": 9, "ping": "Corruption link", "color": 4730361 },
+        "Starfall": { "webhook": 9, "ping": "Starfall link", "color": 19113 },
+        "Hell": { "webhook": 9, "ping": "Hell link", "color": 15491855 },
+        "Sandstorm": { "webhook": 9, "ping": "Sandstorm link", "color": 14456858 },
+        "Rainy": { "webhook": 9, "ping": "Rainy link", "color": 28827 }
+    },
+    "Whitelist": {
+        "Glitch": [
+            "glitch", "glich", "glitsh", "glicth", "glithc", "glitchh", "glictch", "glitc",
+            "glic", "gltich", "glichh", "glitche", "glitxh", "glith", "glitsch",
+            "glicxh", "glitcch", "gilch", "glitxh", "gltch", "glytch", "glitchc",
+            "glithh", "glict", "gilitch", "glitxh", "glotch", "glotich", "glitvh",
+            "giltch", "gitch", "gitlch", "gich", "gish", "gltchi",
+
+            "glithced", "gliched", "glitced", "glitchedd", "glithched", "glithed", "glitchedd", "glithcd", "glitcched",
+            "glicthd", "glichedd", "glitche", "glitcjed", "glitcged", "glitcbed", "glitcehd", "glitchd", "glithed",
+            "glitchecd", "glichted", "gliched", "glichedd", "gliccthed", "glitcde", "glotchd", "glicthed", "glitchted",
+            "glitchad", "gltiched", "gltched", "gliteched", "giltched", "glitcjed", "gilched", "glitchec", "gltihed", "glitched",
+
+            "glitch boime", "glitch biomee", "glitch bime", "glitch bome", "glitch bi0me", "glitch biomee", "glitch byome",
+            "glitch biom", "glitch biomoe", "glitch bione", "glitch biomeh", "glitch biomea", "glitch bimee", "glitch bimey",
+            "glitch bimoe", "glitch biomem", "glitch bimeom", "glitch bimeo", "glitch biome1",
+
+            "glich biome", "glitsh biome", "glicth biome", "glithc biome", "glitchh biome", "glictch biome", "glitc biome",
+            "glic biome", "gltich biome", "glichh biome", "glitche biome", "glitxh biome", "glith biome", "glitsch biome",
+            "glicxh biome", "glitcch biome", "gilch biome", "glitxh biome", "gltch biome", "glytch biome", "glitchc biome",
+            "glithh biome", "glict biome", "gilitch biome", "glitxh biome", "glotch biome", "glotich biome", "glitvh biome",
+            "giltch biome", "gitch biome", "gitlch biome", "gich biome", "gish biome", "glitch biome", "gltchi biome",
+
+            "glich boime", "glitsh boime", "glicth boime", "glithc boime", "glitchh boime", "glictch boime", "glitc boime",
+            "glic boime", "gltich boime", "glichh boime", "glitche boime", "glitxh boime", "glith boime", "glitsch boime",
+            "glicxh boime", "glitcch boime", "gilch boime", "glitxh boime", "gltch boime", "glytch boime", "glitchc boime",
+            "glithh boime", "glict boime", "gilitch boime", "glitxh boime", "glotch boime", "glotich boime", "glitvh boime",
+            "giltch boime", "gitch boime", "gitlch boime", "gich boime", "gish boime", "glitch boime", "gltchi boime",
+
+            "glitched biome", "glitsh biome", "glicth bime", "glithc bome", "glitchedd byome", "glictched bi0me", "glitc b1ome",
+            "glic bome", "gltiched biime", "glitcheh bioem", "glitche bome", "glitxhe bioem", "glith bi0me", "glitsched b1me",
+            "glicxhed b0ime", "glitcched bi0em", "gilch bome", "glitxhed biome", "gltched bioem", "glytched bome", "glitchedd bime",
+            "glithh biime", "glict byome", "gilitched bome", "glitxhed bime", "glotch b1me", "glotched b0ime", "glitvhed bioem",
+            "giltched bome", "gitch bioem", "gitlched bime", "gichh biome", "gish b0ime", "glitche b1ome",
+
+            "giltch biome", "glithc biome", "glith biome", "glith", "glicht", "glicht biome", "giltch biome", "giltch", "gticlh", "gticlh biome", "glitch biom", "glitched biom", "giltch biom", "glithc biom", "glith biom", "glicht biom", "giltch biom", "gticlh biom", "glitch boime", "glitched boime", "giltch boime", "glithc boime", "glicht boime", "giltch boime", "gticlh boime", "gltch", "gltch biom", "gltch boime", "gltch biome", "gltich", "gltich biome", "gltich biom", "gltich boime",
+            "g:itch"
+        ],
+        "Jester": [
+            "jester", "jonker", "ob", "chester", "jonkler", "jster", "tracker", "hp1", "hp2", "heavenly", "rune of everything", "oblivion", "obl", "obli", "obliv", "oblivi", "oblivio", "roe", "obv", "exchange"
+        ],
+        "Void_Coin": [
+            "void", "void coin", "mari void coin", "vc", "mari vc", "oid"
+        ]
+    },
+    "Blacklist": {
+        "General": [
+            "oblivion owner", "memory and oblivion owner", "aura", "arua", "obvilvion owner", "oblivion owners", "obvilvion owners", "pull",
+            "pulled", "when was the last", "when was last", "tryna", "trying", "trying to get", "trying too get", "olivion owner",
+            "olivion owner", "popping", "pop", "pooping", "popped", "popping hp2", "popping oblivion", "popping obv", "popping obliv pot",
+            "popping obliv pot", "popping obliv", "popping h2", "popping hp1", "going to pop hp1", "pooping hp2", "going to pop heavenly 2",
+            "gonna pop a hp2", "gonna pop heavenly 2", "going to pop obliv", "gonna pop a obliv", "gonna pop obliv", "gonna pop an obliv pot",
+            "going to pop an oblivion", "gonna pop a oblivion", "gonna pop oblivion", "gonna pop an obliv pot", "1s", "2s", "3s", "4s", "5s",
+            "1s left", "2s left", "3s left", "4s left", "5s left", "1 second left", "2 second left", "3 second left", "4 second left",
+            "5 second left", "1 seconds left", "2 seconds left", "3 seconds left", "4 seconds left", "5 seconds left", "where", "nothing",
+            "hunt", "anyone", "dm", "anybody", "last", "when", "were", "can", "you", "pls", "plz", "please", "looking for", "lf", "wait",
+            "?", "someone", "gamepass", "gift", "dont", "don't", "don’t", "pop", "jk", "kidding", "gone", "not", "need",
+            "hungry", "send", "sent", "macro", "marco", "fake", "chill", "these", "gimmie", "mabye", "brush", "twah", "which",
+            "should", "why", "aura", "new jester link", "new glitch link", "new void coin link", "give", "never", "playtime",
+            "days", "havent", "havnt", "haven't", "gimme", "if", "roblox", "channel", "plug", "relevant", "didn’t", "didn't",
+            "didnt", "flex", "battle", "missed", "miss", "hope", "any", "normal", "rules", "current", "afk", "cmon", "come", "tae", "tell", "them", "mods",
+            "tuah", "try", "obvious", "bait", "want", "wom", "thank", "ty", "jimbo", "1s left", "2s left", "3s left", "4s left", "5s left",
+            "getting", "pain", "thought", "plis", "was", "who", "hour", "post", "post", "post a", "stop", "ended", "jester link detected",
+            "glitch link detected", "void coin link detected", "Glitch Logger", "Void Coin Logger", "Jester Logger", "|", "isnt", "isn't", "joined",
+            "lie", "feet", "lying", "liar", "hangout", "lair", "lier", "gatekeep", "gate keep", "Blacklisted Logger", "joke", "joking", "neeeed", "robux",
+            "so much", "saw", "how much", "when was", "hasnt", "hasn't", "gimmi", "gimm", "non"
+        ],
+        "GlitchBW": [
+            "windy", "rainy", "snowy", "corruption", "hell", "null", "starfall", "sandstorm", "sand", "null", "snowy", "hp2", "oblivion", "obl", "obli", "obliv", "oblivio", "oblivion", "for glitch",
+            "when will", "post a", "pls post", "rather", "into", "heaven", "sandatorm", "void coin", "vc", "mari", "lucky"
+        ],
+        "JesterBW": [
+            "mari", "coin", "lucky penny", "lp", "gear a", "void coin", "vc", "void", "gear b", "gaer b", "gaer a", "lucky pots", "speed pots", "sp"
+        ],
+        "Users": [
+            1270828041752416256,
+            823295231444123660,
+            881807788899188796,
+            1183295176320491571,
+            1292340795998732443,
+            1292654956637192292,
+            1292947449912234106,
+            1233600885842513973,
+            901886466416836660,
+            1283088203368239105,
+            1212638603436359722,
+            1254456380774023243,
+            1293068873565868065,
+            974798537072205894,
+            897958057064153138,
+            1128940579208835109,
+            879838165312081950,
+            1253384860756738129,
+            903838580026277929,
+            1094744373897482261,
+            1217014384837005333,
+            1124426333615833138,
+            719286977500807178,
+            1299040750293618785,
+            1297740925241524224,
+            1140425054593757245,
+            749334710089678969,
+            1277729960844328962,
+            1057423785239793664
+        ],
+        "Display": [
+            "FreezaLuckIsReal (HappyPicture16",
+            "crunchtimeisgoated69",
+            "Global (PrestonDevelopers99)",
+            "Zaenex (hanklewis48)",
+            "Noodleluckisreal (daacount56)",
+            "lol_wastaken (Doodeedoodeeq)",
+            "Pelikanww (antywojna)"
+        ]
+    }
+}
