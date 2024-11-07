@@ -310,7 +310,7 @@
     ]
   },
   "Blacklist": {
-    "General": [
+    "general": [
       "oblivion owner",
       "memory and oblivion owner",
       "aura",
@@ -514,7 +514,7 @@
       "gimm",
       "non"
     ],
-    "GlitchBW": [
+    "glitchbw": [
       "windy",
       "rainy",
       "snowy",
@@ -546,7 +546,7 @@
       "mari",
       "lucky"
     ],
-    "JesterBW": [
+    "jesterbw": [
       "mari",
       "coin",
       "lucky penny",
@@ -562,7 +562,7 @@
       "speed pots",
       "sp"
     ],
-    "Users": [
+    "users": [
       1270828041752416300,
       823295231444123600,
       881807788899188700,
@@ -593,7 +593,7 @@
       1277729960844329000,
       1057423785239793700
     ],
-    "Display": [
+    "display": [
       "FreezaLuckIsReal (HappyPicture16",
       "crunchtimeisgoated69",
       "Global (PrestonDevelopers99)",
