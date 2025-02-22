@@ -535,7 +535,11 @@
       "rainy",
       "snowy",
       "grave",
-      "pump"
+      "pump",
+      "rain",
+      "wind",
+      "snow",
+      "corrupt"
     ],
     "userid": [
       "1270828041752416256",
