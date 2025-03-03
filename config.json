@@ -504,7 +504,8 @@
       "spawns",
       "glitch end",
       "search",
-      "leave"
+      "leave",
+      "notglitch"
     ],
     "jester": [
       "mari",
