@@ -521,7 +521,8 @@
       "(",
       ")",
       "refresh",
-      "english"
+      "english",
+      "warn"
     ],
     "jester": [
       "mari",
