@@ -522,7 +522,8 @@
       ")",
       "refresh",
       "english",
-      "warn"
+      "warn",
+      "forbidden"
     ],
     "jester": [
       "mari",
