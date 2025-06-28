@@ -522,7 +522,8 @@
       "english",
       "warn",
       "forbidden",
-      "pitch"
+      "pitch",
+      "(fake)"
     ],
     "jester": [
       "mari",
