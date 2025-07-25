@@ -528,7 +528,8 @@
       "warn",
       "forbidden",
       "pitch",
-      "(fake)"
+      "(fake)",
+      "mastermind"
     ],
     "jester": [
       "mari",
