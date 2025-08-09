@@ -121,7 +121,8 @@
       "mari void coin",
       "vc",
       "mari vc",
-      "oid"
+      "oid",
+      "kjasdkjhasdaghjsdjghajksdhajhgksdhjasd"
     ]
   },
   "Blacklist": {
@@ -1683,6 +1684,15 @@
       "16108c21a1c2ec418290af0e38272d68",
       "5f9090c9a3b3204bbcb8da1c733a41d1",
       "0f32cdab23f63f41bbd34fde2fa39a02"
+    ],
+    "Void_Coin": [
+      "void",
+      "void coin",
+      "mari void coin",
+      "vc",
+      "mari vc",
+      "oid",
+      "kjasdkjhasdaghjsdjghajksdhajhgksdhjasd"
     ]
   }
 }
